@@ -20,7 +20,7 @@
   segment_path line shape is to be decoded with https://github.com/jieter/Leaflet.encoded
 </details>
 
-* [Constanța urban transit: lines, stations, departures in real time, timetables, GPS positions](https://info.ctbus.ro/rp/api/lines/)
+  * [Constanța urban transit: lines, stations, departures in real time, timetables, GPS positions](https://info.ctbus.ro/rp/api/lines/)
 
 <details>
   <summary>Details</summary>
