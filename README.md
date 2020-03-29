@@ -15,6 +15,7 @@
   https://info.stbsa.ro/rp/api/lines/:line_id/direction/:direction_id
   https://info.stbsa.ro/rp/api/lines/:line_id/stops/:stop_id?lang=:lang_code
   https://info.stbsa.ro/rp/api/lines/:line_id/vehicles/:direction_id
+  https://info.stbsa.ro/rp/api/notifications
   ```
   
   segment_path line shape is to be decoded with https://github.com/jieter/Leaflet.encoded
@@ -31,6 +32,7 @@
   https://info.ctbus.ro/rp/api/lines/:line_id/direction/:direction_id
   https://info.ctbus.ro/rp/api/lines/:line_id/stops/:stop_id?lang=:lang_code
   https://info.ctbus.ro/rp/api/lines/:line_id/vehicles/:direction_id
+  https://info.ctbus.ro/rp/api/notifications
   ```
   
   segment_path line shape is to be decoded with https://github.com/jieter/Leaflet.encoded
