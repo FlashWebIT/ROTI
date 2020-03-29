@@ -1,8 +1,15 @@
-# Romanian Open Transit Initiative
-## Project and resource list
+# 🚇🚞🚌 Romanian Open Transit Initiative 🚋🚈🚡
+## 📝 Project and resource list
 
-### Data sources
+1. ### 📎 Data sources
+####  _There has to be a starting point :)_
 
-### Data converters
+---
+2. ### ⚙️ Data converters
+#### _From proprietary to standard/open formats_
 
-### Data visualizers
+---
+3. ### 🗺️ Data visualizers
+#### Make it beautiful
+
+---
