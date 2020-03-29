@@ -65,3 +65,10 @@
 
 ### 🕬 Contribute
 By pull request or by opening an issue.
+
+### 📧 Get in touch
+Email the maintainer at bogdan@transportpublic.ro
+
+### 📅 Milestones
+- [ ] Get a few other developers onboard (2-3 for this year)
+- [ ] [Roll out](https://digitransit.fi/en/developers/) our own instance of the beautiful [Digitransit](https://github.com/HSLdevcom/digitransit/blob/master/Installation.md) trip-planning webapp, fully open source Finnish software which [works for them in production](https://reittiopas.hsl.fi/) and also [at nation-level](https://opas.matka.fi/)
