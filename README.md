@@ -41,11 +41,13 @@
 #### _(exporters, processors etc.) From proprietary to standard/open formats_
 * [Railway XML data to GTFS, Ruby](https://github.com/vasile/data.gov.ro-gtfs-exporter)
 * [Real time railway data (train departures, delays, platform numbers updated minutely) to JSON API and WebUI - Python](https://github.com/BodoMinea/cfr-iris-scraper)
+
 ---
 3. ### 🗺️ Data visualizers
 #### _(maps, apps etc.) Make it beautiful_
 * [GTFS transit-map simultaion](https://github.com/vasile/transit-map) - static webapp, also needs [GTFS-viz Ruby converter to GeoJSON](https://github.com/vasile/GTFS-viz)
 * [Real time train information - Cordova Android app](https://github.com/BodoMinea/InfoTren)
+
 ---
 
 ### ⁉️ WTF Zone - We don't know what this is but it belongs here
