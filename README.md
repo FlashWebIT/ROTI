@@ -64,7 +64,7 @@
 * Local transit, Bucharest & Constanța: [Download here](https://github.com/FlashWebIT/Bucharest-GTFS-Exporter/tree/master/output)
 
 ### 🕬 Contribute
-By pull request or by opening an issue.
+By [pull request](CONTRIBUTING.md) or by opening an issue.
 
 ### 📧 Get in touch
 Email the maintainer at bogdan@transportpublic.ro
