@@ -41,7 +41,7 @@
 ---
 2. ### ⚙️ Data converters
 #### _(exporters, processors etc.) From proprietary to standard/open formats_
-* [Railway XML data to GTFS, Ruby](https://github.com/vasile/data.gov.ro-gtfs-exporter)
+* [Railway XML data to GTFS, Ruby](https://github.com/vasile/data.gov.ro-gtfs-exporter) - also includes a very handy [GeoJSON file of all Romanian railway stations with names and GPS positions](https://raw.githubusercontent.com/vasile/data.gov.ro-gtfs-exporter/master/cfr.webgis.ro/stops.geojson)
 * [Real time railway data (train departures, delays, platform numbers updated minutely) to JSON API and WebUI - Python](https://github.com/FlashWebIT/cfr-iris-scraper)
 * [Generate up-to-date GTFS files from custom local transit API used by Bucharest & Constanța (RADCOM)](https://github.com/FlashWebIT/Bucharest-GTFS-exporter)
 * [GTFS Realtime protocol buffer vehicle positions converter for Iași](https://github.com/FlashWebIT/Iasi-GTFS-Realtime-Vehicle-Positions)
