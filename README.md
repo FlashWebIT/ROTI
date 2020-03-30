@@ -57,6 +57,11 @@
 
 ### ⁉️ WTF Zone - We don't know what this is but it belongs here
 * [Some attempt at an GTFS backend by GovITHub](https://github.com/gov-ithub/infotranspub-backend)
+<details>
+  <summary>Historical?</summary>
+  Not relevant as data or install guides anymore, but interesting study materials on past projects:
+  * https://github.com/cnicules/OTP-Buh/wiki (also check the code!)
+</details>
 
 ### 📥 Download center
 #### 🚍 Grab some ready-made GTFS Files
