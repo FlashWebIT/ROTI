@@ -46,6 +46,7 @@
 * [Generate up-to-date GTFS files from custom local transit API used by Bucharest & Constanța (RADCOM)](https://github.com/FlashWebIT/Bucharest-GTFS-exporter)
 * [GTFS Realtime protocol buffer vehicle positions converter for Iași](https://github.com/FlashWebIT/Iasi-GTFS-Realtime-Vehicle-Positions)
 * [GTFS Realtime protocol buffer vehicle positions converter for Bucharest & Constanța](https://github.com/FlashWebIT/Bucharest-Constanta-GTFS-Realtime-Vehicle-Positions)
+* _[Static GTFS exporter for Iași](https://github.com/FlashWebIT/Iasi-GTFS-exporter)_ - This is still a work in progress and **currently only exports routes, stops, and shapes**. We are working to add trips & stop-times/frequencies.
 
 ---
 3. ### 🗺️ Data visualizers
