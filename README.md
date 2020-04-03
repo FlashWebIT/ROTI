@@ -37,6 +37,7 @@
   
   segment_path line shape is to be decoded with https://github.com/jieter/Leaflet.encoded
 </details>
+* [Sibiu local urban transit operator GTFS (Official)](https://www.tursib.ro/trasee/gtfs)
 
 ---
 2. ### ⚙️ Data converters
@@ -66,8 +67,9 @@
 
 ### 📥 Download center
 #### 🚍 Grab some ready-made GTFS Files
-* National Railway: [Download here](https://github.com/vasile/data.gov.ro-gtfs-exporter/tree/master/gtfs-out)
-* Local transit, Bucharest & Constanța: [Download here](https://github.com/FlashWebIT/Bucharest-GTFS-Exporter/tree/master/output)
+* National Railway (converted): [Download here](https://github.com/vasile/data.gov.ro-gtfs-exporter/tree/master/gtfs-out)
+* Local transit, Bucharest & Constanța (generated/converted): [Download here](https://github.com/FlashWebIT/Bucharest-GTFS-Exporter/tree/master/output)
+* Local transit, Sibiu (official): [Download here](https://www.tursib.ro/trasee/gtfs)
 
 ### 🕬 Contribute
 By [pull request](CONTRIBUTING.md) or by [opening an issue](https://github.com/FlashWebIT/ROTI/issues/new).
