@@ -45,9 +45,9 @@
 #### _(exporters, processors etc.) From proprietary to standard/open formats_
 * [Railway XML data to GTFS, Ruby](https://github.com/vasile/data.gov.ro-gtfs-exporter) - also includes a very handy [GeoJSON file of all Romanian railway stations with names and GPS positions](https://raw.githubusercontent.com/vasile/data.gov.ro-gtfs-exporter/master/cfr.webgis.ro/stops.geojson)
 * [Real time railway data (train departures, delays, platform numbers updated minutely) to JSON API and WebUI - Python](https://github.com/FlashWebIT/cfr-iris-scraper)
-* [Generate up-to-date GTFS files from custom local transit API used by Bucharest & Constanța (RADCOM)](https://github.com/FlashWebIT/Bucharest-GTFS-exporter)
+* ~~[Generate up-to-date GTFS files from custom local transit API used by Bucharest & Constanța]~~ Follow the link below
 * [GTFS Realtime protocol buffer vehicle positions converter for Iași](https://github.com/FlashWebIT/Iasi-GTFS-Realtime-Vehicle-Positions)
-* [GTFS Realtime protocol buffer vehicle positions converter for Bucharest & Constanța](https://github.com/FlashWebIT/Bucharest-Constanta-GTFS-Realtime-Vehicle-Positions)
+* [GTFS Realtime protocol buffer vehicle positions converter for ~~Bucharest~~ (find official GTFS portal below) & Constanța](https://github.com/FlashWebIT/Bucharest-Constanta-GTFS-Realtime-Vehicle-Positions)
 * _[Static GTFS exporter for Iași](https://github.com/FlashWebIT/Iasi-GTFS-exporter)_ - This is still a work in progress and **currently only exports frequency-based  routes and is buggy**.
 
 ---
@@ -59,7 +59,7 @@
 ---
 
 ### ⁉️ WTF Zone - We don't know what this is but it belongs here
-* [Some attempt at an GTFS backend by GovITHub](https://github.com/gov-ithub/infotranspub-backend)
+* [Some attempt at an GTFS backend by GovITHub](https://web.archive.org/web/20200911162006/https://github.com/gov-ithub/infotranspub-backend)
 <details>
   <summary>Historical?</summary>
   Not relevant as data or install guides anymore, but interesting study materials on past projects:
@@ -69,8 +69,9 @@
 ### 📥 Download center
 #### 🚍 Grab some ready-made GTFS Files
 * National Railway (converted): [Download here](https://github.com/vasile/data.gov.ro-gtfs-exporter/tree/master/gtfs-out)
-* Local transit, Bucharest & Constanța (generated/converted): [Download here](https://github.com/FlashWebIT/Bucharest-GTFS-Exporter/tree/master/output)
-* Local transit, Iași (generated/converted): [Download here](https://github.com/FlashWebIT/Iasi-GTFS-Exporter/tree/master/output)
+* Local transit, Bucharest (official): [Download here](https://gtfs.tpbi.ro/regional)
+* Local transit, Constanța (generated): [Download here](https://external.gtfs.ro/constanta/)
+* Local transit, Iași (generated): [Download here](https://github.com/FlashWebIT/Iasi-GTFS-Exporter/tree/master/output)
 * Local transit, Sibiu (official): [Download here](https://www.tursib.ro/trasee/gtfs)
 
 ### 🕬 Contribute
