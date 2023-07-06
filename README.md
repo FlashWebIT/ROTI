@@ -6,6 +6,7 @@
 * [Passenger railway operators static timetable, published anually, XML format](https://data.gov.ro/organization/sc-informatica-feroviara-sa)
 * [Iași urban transit: GPS positions in real-time, JSON](https://gps.sctpiasi.ro/json)
 * [Bucharest urban transit: lines, stations, departures in real time, timetables, GPS positions](https://info.stbsa.ro/rp/api/lines/)
+  ⚠️ No longer updated. Can still be used for real time vehicle position on lines existing prior to 07/06/2023 but should not be used for things like schedules.
 <details>
   <summary>Details</summary>
   
